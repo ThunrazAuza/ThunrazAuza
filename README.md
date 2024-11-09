@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ThunrazAuza
-- 👀 I’m interested in conquer za warudo 🤓🗺
-- 🌱 I’m currently learning how to search books of a more efficient way
-- 💞️ I’m looking to collaborate on projects od data analysis and any another para eso estamos
+- 👀 I’m interested in create better solutions for sofware issues 🤓🗺
+- 🌱 I’m currently learning how to improve an small books bussines
+- 💞️ I’m looking to collaborate on projects od data analysis and any another
 - 📫 How to reach me? Just search me on fb 🤔
 
 <!---
